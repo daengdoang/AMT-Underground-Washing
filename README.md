@@ -9,4 +9,10 @@ Development Aplikasi Manajemen Transaksi PT Underground Washing
 1304145 Kanita Nada Hasya <br>
 
 Tugas Mata Kuliah Manajemen Proyek Perangkat Lunak <br>
-Departemen Pendidikan Ilmu Komputer
+
+
+
+#We Are From
+Departemen Pendidikan Ilmu Komputer <br>
+Universitas Pendidikan Indonesia (UPI) <br>
+http://cs.upi.edu
