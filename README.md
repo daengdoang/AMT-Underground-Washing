@@ -8,9 +8,8 @@ Development Aplikasi Manajemen Transaksi PT Underground Washing
 1300104 Ellis Hidayat <br>
 1304145 Kanita Nada Hasya <br>
 
-
-
-
+Bapak Eddy Prasetyo Nugroho <br>
+Jidni Ilman <br>
 
 #We Are From
 Mata Kuliah Manajemen Proyek Perangkat Lunak <br>
