@@ -1,0 +1,86 @@
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Brahma.Acer\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Admin.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Layanan.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TambahLayanan.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\underwash.accdb
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.BarangMasuk.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ProsesBarangMasuk.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TambahCustomer.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Struk.resources
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\underwash.accdb
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Admin.resources
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.BarangMasuk.resources
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TambahLayanan.resources
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Struk.resources
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TambahCustomer.resources
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Layanan.resources
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ProsesBarangMasuk.resources
+G:\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\underwash.accdb
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Admin.resources
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.BarangMasuk.resources
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Struk.resources
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TambahCustomer.resources
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Layanan.resources
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ProsesBarangMasuk.resources
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LihatData.resources
+D:\tubes\UBES\Software\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TambahLayanan.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\underwash.accdb
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Admin.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.BarangMasuk.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LihatData.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Struk.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TambahCustomer.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Layanan.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ProsesBarangMasuk.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TambahLayanan.resources
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\KULIAH\SEMESTER 4\PROVIS\UBES\Software\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
