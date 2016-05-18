@@ -8,6 +8,7 @@ Development Aplikasi Manajemen Transaksi PT Underground Washing
 1300104 Ellis Hidayati <br>
 1304145 Kanita Nada Hasya <br>
 
+Supervisor:
 Bapak Eddy Prasetyo Nugroho <br>
 Jidni Ilman <br>
 
